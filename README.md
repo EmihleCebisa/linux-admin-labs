@@ -28,7 +28,7 @@ The goal is to develop practical skills relevant to:
 | 002 | File Permissions                   | Beginner     | Completed |
 | 003 | Users and Groups                   | Beginner     | Completed |
 | 004 | File Ownership                     | Beginner     | Completed |
-| 005 | Package Management                 | Beginner     | Planned   |
+| 005 | Package Management                 | Beginner     | Completed |
 | 006 | Process Management                 | Intermediate | Planned   |
 | 007 | Services and Systemctl             | Intermediate | Planned   |
 | 008 | Networking Basics                  | Intermediate | Planned   |
